@@ -1,4 +1,3 @@
-//bridge-file-version: #0
 # 넉백 스크립트
 ## 넉백으로 플레이어를 날려보냅니다. Minecraft Bedrock Gametest Script.
 
